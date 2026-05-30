@@ -1,6 +1,13 @@
-# File Integrity Checker
+# FILE INTEGRITY CHECKER
 
-A Python-based cybersecurity tool that monitors file integrity by calculating and comparing SHA-256 hash values.
+COMPANY: CODTECH IT SOLUTIONS
+NAME: LILENDRA KUMAR
+INTERN ID : CITS173
+DOMAIN NAME : CYBER SECURITY AND ETHICAL HACKING 
+DURATION : 6 WEEK
+MENTOR : NEELA SANTOSH KUMAR
+
+## A Python-based cyberse curity tool that monitors file integrity by calculating and comparing SHA-256 hash values.
 
 ## Features
 - Generate file hashes
