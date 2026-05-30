@@ -30,3 +30,8 @@
 ## Run
 
 python integrity_checker.py
+
+## Output
+
+<img width="972" height="733" alt="Image" src="https://github.com/user-attachments/assets/6caacaf2-90f0-4950-88b2-a342089ca39f" />
+
